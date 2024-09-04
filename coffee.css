@@ -11,7 +11,7 @@ header {
     gap: 20px;
     width: 90%;
     margin: 0 auto;
-    background-color:lightblue; /* Light cream background */
+    background-color:lightblue; 
     padding: 20px 0;
 }
 
@@ -44,7 +44,7 @@ header {
 }
 
 footer {
-    background-color:aqua; /* Matching the header */
+    background-color:aqua; 
     color: white;
     text-align: center;
     padding: 10px ;
